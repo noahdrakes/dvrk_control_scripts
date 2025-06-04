@@ -1,0 +1,5 @@
+M- cisst 1.3.1 (git: 1.3.1-95-gba5f1091)
+M- CISST_ROOT: /home/ndrakes1/catkin_ws/build/cisst
+M- cisst share: /home/ndrakes1/catkin_ws/build/cisst/share/cisst-1.3
+M- cmn_m: 1, cmn_kg: 1, CISST_USE_SI_UNITS is set to 1
+-E File: robManipulator.cpp Line: 201 -  robManipulator::LoadRobot: couldn't open configuration file ../../share/deprecated/dvpsm.rob
